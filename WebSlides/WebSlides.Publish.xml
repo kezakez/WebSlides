@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\slides" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="local" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Views/Follower/Index.aspx" publishTime="09/06/2010 09:39:09" />
+    <file relUrl="Scripts/MicrosoftAjax.js" publishTime="09/04/2010 23:46:46" />
+    <file relUrl="Global.asax" publishTime="09/04/2010 23:46:46" />
+    <file relUrl="Slides/Slide3.PNG" publishTime="09/19/2010 22:28:06" />
+    <file relUrl="bin/System.Web.Mvc.xml" publishTime="02/17/2010 08:22:24" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="09/04/2010 23:46:45" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.debug.js" publishTime="09/04/2010 23:46:46" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.debug.js" publishTime="09/04/2010 23:46:46" />
+    <file relUrl="bin/System.Web.Abstractions.dll" publishTime="03/18/2010 19:31:26" />
+    <file relUrl="Scripts/jquery.validate.min.js" publishTime="09/04/2010 23:46:45" />
+    <file relUrl="Slides/Slide6.PNG" publishTime="09/19/2010 22:28:06" />
+    <file relUrl="Scripts/jquery.validate-vsdoc.js" publishTime="09/04/2010 23:46:45" />
+    <file relUrl="bin/ServerUpdate.dll" publishTime="09/19/2010 22:41:26" />
+    <file relUrl="Slides/Slide2.PNG" publishTime="09/19/2010 22:28:06" />
+    <file relUrl="Slides/Slide5.PNG" publishTime="09/19/2010 22:28:06" />
+    <file relUrl="Scripts/jquery.validate.js" publishTime="09/04/2010 23:46:45" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="09/04/2010 23:46:45" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.js" publishTime="09/04/2010 23:46:46" />
+    <file relUrl="bin/System.Web.Mvc.dll" publishTime="02/17/2010 08:24:14" />
+    <file relUrl="bin/System.Web.Routing.dll" publishTime="03/18/2010 19:31:26" />
+    <file relUrl="Views/Shared/Site.Master" publishTime="09/05/2010 23:33:57" />
+    <file relUrl="Slides/Slide7.PNG" publishTime="09/19/2010 22:28:06" />
+    <file relUrl="Slides/Slide4.PNG" publishTime="09/19/2010 22:28:06" />
+    <file relUrl="Views/Shared/Error.aspx" publishTime="09/04/2010 23:46:46" />
+    <file relUrl="bin/ServerUpdate.pdb" publishTime="09/19/2010 22:41:26" />
+    <file relUrl="Web.config" publishTime="09/19/2010 22:46:41" />
+    <file relUrl="Slides/Slide1.PNG" publishTime="09/19/2010 22:28:06" />
+    <file relUrl="Content/Site.css" publishTime="09/10/2010 00:23:53" />
+    <file relUrl="Views/Shared/Slides.ascx" publishTime="09/18/2010 23:56:59" />
+    <file relUrl="Scripts/MicrosoftAjax.debug.js" publishTime="09/04/2010 23:46:45" />
+    <file relUrl="Views/Web.config" publishTime="09/04/2010 23:46:46" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="09/04/2010 23:46:46" />
+    <file relUrl="Views/Presenter/Index.aspx" publishTime="09/10/2010 00:14:36" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="09/04/2010 23:46:45" />
+  </publishProfile>
+</publishData>
